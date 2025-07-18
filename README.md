@@ -10,7 +10,6 @@ The main visualization is a filled world map where each country is color-coded b
 
 - `tourism_arrivals.twbx` – Tableau workbook file (contains the data and the map)
 - `tourism_clean.csv` – The cleaned CSV I used for the visualization
-- (Optional) `map_preview.png` – A screenshot of the map
 
 ## Data source
 
